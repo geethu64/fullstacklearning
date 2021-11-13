@@ -1,0 +1,29 @@
+.row{
+   border: solid black 1px;
+    width: 150 px;
+    height: 280px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.col{
+    height: 150px;
+    width: 150px;
+    border: solid black 1px;
+}
+div img{
+    width: 50%;
+    height: 250px;
+}
+div p{
+    padding-left: 50px;
+    text-align:justify;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+div h4{
+    text-align: center;
+    padding: 5px;
+    color: rgb(100, 109, 228);
+}

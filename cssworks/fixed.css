@@ -1,0 +1,16 @@
+.fix{
+    border: solid 1px black;
+    background-color: rgb(149, 185, 164);
+    height: 100px;
+    width: 100px;
+    position:sticky;
+    top: 100px;
+    /* left: 600px;
+    top:250px */
+}
+body{
+    background-image: url(./cf109ac4bf7a5d7259349593bd8ca631.jpg);
+    height: 1000px;
+    background-size: cover;
+    color: blanchedalmond;
+}

@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Satisfy&display=swap');
+h1{
+    /* hue saturation lighting */
+    color: hsl(338, 91, 62);
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+#a1{
+    color: rgb(78, 146, 9);
+}
+.a2{
+    color:#9e0e43;
+}
+p{
+    font-size: 20px;
+    font-family:'Lobster', cursive;
+}

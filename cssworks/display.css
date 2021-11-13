@@ -1,0 +1,31 @@
+.row{
+    border: solid black;
+    background-color: cadetblue;
+    width: 600px;
+    height: 300px;
+    display: flex;/*work in parent child case*/
+    /* space-between */
+    /* space-evenly */
+    /* flex-end */
+    /* flex-start */
+    /* justify-content:flex-start; */
+    align-items: center;
+    justify-content: space-around;
+}
+.col{
+    height: 100px;
+    width: 100px;
+    border: solid black 1px;
+}
+.col1{
+    background-color: rgb(115, 61, 165);
+}
+.col2{
+    background-color: rgb(141, 27, 126);
+}
+.col3{
+    background-color: rgb(160, 158, 17);
+}
+.col4{
+    background-color: rgb(206, 102, 119);
+}

@@ -1,0 +1,15 @@
+div{
+    border: solid black;
+    width: 200px;
+    padding-left: 50px;
+    /* used to generate space around an element's content.
+     inside of any defined borders */
+    /* pading-left,pading-right,pading-top,padding-bottom */
+}
+#a1{
+    margin-top: 100px;
+}
+/* descendent selector */
+div p{
+    color: blue;
+}

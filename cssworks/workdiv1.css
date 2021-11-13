@@ -1,0 +1,35 @@
+.row{
+    width: 500px;
+    height: 300px;
+    border: solid black 1px;
+    background-color: cornflowerblue;
+    position:relative;
+    left: 700px;
+}
+.col{
+    width: 100px;
+    height: 200px;
+    border: solid black 1px;
+    float: left;
+    
+}
+.col1{
+    position:absolute;
+    background-color: crimson;
+    /* left: 10%; */
+}
+.col2{
+     position:absolute; 
+    background-color: rgb(20, 197, 220);
+    left: 105px;
+}
+.col3{
+     position: absolute; 
+    background-color: rgb(87, 245, 108);
+    left: 210px;
+}
+.col4{
+    position:absolute;
+    background-color: rgb(173, 48, 153);
+    left: 315px;
+}

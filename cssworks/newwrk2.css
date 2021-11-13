@@ -1,0 +1,37 @@
+body{
+background-color: rgb(44, 33, 33);
+width: 103%;
+}
+div{
+    border:solid;
+    width: 19%;
+    height: 726px;
+    float: left;
+    
+}
+div img{
+    width: 100%;
+    height: 300px;
+}
+#i1{
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+div p{
+    padding: 5px;
+    text-align:left;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+div div{
+    border: solid white;
+    width: 96%;
+    height: 25px;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    margin-top: 41px;    
+}
+
